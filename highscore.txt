@@ -1,0 +1,6 @@
+osom 1
+gol 10
+da 20
+lol 45
+as 15
+asdf 10
